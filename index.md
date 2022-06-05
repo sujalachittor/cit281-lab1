@@ -1,1 +1,1 @@
-I set up and installed the necessary software tools on my computer. 
+This lab involved downloading and setting up the software tools needed for this course and practicing using software tools, terminal or shell commands, keyboard shortcuts, and creating your first Node.js JavaScript file on the server-side.
