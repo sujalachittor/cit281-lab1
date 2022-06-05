@@ -1,1 +1,1 @@
-Add your description here.
+I set up and installed the necessary software tools on my computer. 
